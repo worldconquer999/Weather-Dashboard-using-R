@@ -1,0 +1,13 @@
+name: stormfront
+title: stormfront
+username: stormfront
+account: stormfront
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12318253
+bundleId: 8865392
+url: https://stormfront.shinyapps.io/stormfront/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|install.R
